@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JLnyGoM46+sWKxnYVGdX+6kFUaCP20DRr1OVMnpR/9NKX5ct4iwLAxb9Q8q8MvFBE6v6yq+YK4jFkRfCO5SOxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danto\\source\\repos\\Arquitecto Aritmética\\Arquitecto Aritmética\\Arquitecto Aritmética.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danto\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.4\\microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "C:\\Users\\danto\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.4\\microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "C:\\Users\\danto\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.4\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
